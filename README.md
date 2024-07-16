@@ -18,5 +18,8 @@ An autocomplete search bar that returns legal terms.
 
    ```sh
    docker-compose up --build
-   
-#### This Project will be running on localhost:5173
+
+#### This Project will be running on localhost:5173 like this:
+
+![Landpage](landpage.png)
+![Search results](images/searchresult.png)
