@@ -27,10 +27,10 @@ An autocomplete search bar that returns legal terms.
    
 9.now, back to root directory, do:
 
-   ```sh
    docker-compose up --build
 
 #### This Project will be running on localhost:5173 like this:
 
 ![Landpage](images/landpage.png)
 ![Search results](images/searchresult.png)
+
