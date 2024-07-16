@@ -8,6 +8,8 @@ Neste arquivo eu explico o passo a passo do desenvolvimento do projeto. Visto qu
 2. Comecei estudando a documentação base e formas de automatizar o processo de criação de um projeto com React (algo similar ao Poetry em Python), encontrei o Vite.
 3. **Vite** é uma ferramenta que estrutura todo o seu projeto React do zero e cria todas as dependências.
 4. Depois de configurar o Vite, todo o esqueleto do frontend já estava pronto.
+5. Adicionei o componente **SearchBar.jsx** para criar a barra de busca que seria a fonte de input do meu frontend. Ela realiza uma query para o endereço do servidor Graphql a cada input fornecido pelo cliente. 
+6. Por fim, adicionei os estilos com **CSS**
 
 ## Servidor GraphQL
 
@@ -24,3 +26,14 @@ Neste arquivo eu explico o passo a passo do desenvolvimento do projeto. Visto qu
 4. Para o proposito da aplicação, baixa latencia e endpoint simplificado, o fastapi provou ser ainda mais eficiente que o flask.
 5. Para a database, eu escolhi um dicionário jurídico com termos legais da justiça brasileira, nele constam termos e definiçoes. è um arquivo **json** dentro do backend que é importado por main. py para ser trabalhado pelo algoritimo de busca.
 6. Quanto ao algoritmo, escolhi por usar uma estrutura de **Árvore de Prefixos**(**Prefix-Tree**/**Trie**) bem comum para tarefas de autocompletar. Ao estruturar a database dessa forma eu evito que a cada input dado pelo cliente, o sistema tenha que varrer o dataset inteiro, varias vezes em busca de prefixos que estajem de acordo. É um algoritmo com alto potencial de escalabilidade.
+
+## Possiveis Implementações
+
+1. A minha ideia inicial para este projeto era fazer um dicionário 100% funcional, por esse motivo, na database (**data.json**) constam não só os termos como as suas respectivas definições. 
+2. Meu plano era criar outro componente no frontend chamado **SearchResult.jsx** que funcionaria para gerar uma definição abaixo do buscador quando o termo buscado fosse selecionado pelo ponteiro/enter.
+3.Quando clicado, esse termo enviaria uma query para o servidor e para o backend, solicitando a definição completa.
+4. Inflizmente, devido ao prazo, não pude implementar a funcionalidade completa.
+
+# Considerações Finais
+
+Este foi um projeto extremamente desafiador que exigiu uma semana de estudo intenso e dedicação exclusiva, eu não era familiar a maior parte das ferramentas utilizadas e isso fez com que eu tivesse que testar e refazer muita coisa. Fico feliz com o resultado final e espero que ele possa cumprir os parametros de um codigo bem feito e satisfatório.
