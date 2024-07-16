@@ -1,0 +1,1285 @@
+[
+    {
+        "term": "1ª Instância",
+        "definition": "Corresponde às Varas/Juizados Especiais, compostos por Juízes, e com atribuição para julgar os processos iniciados pelos cidadãos/empresas. É a principal porta de entrada do Poder Judiciário."
+    },
+    {
+        "term": "2ª Instância",
+        "definition": "Corresponde aos Órgãos Julgadores, compostos por Desembargadores, e com atribuição para julgar os recursos relativos às decisões judiciais da 1ª instância, além de outros tipos de ação."
+    },
+    {
+        "term": "2ª Vice-Presidência",
+        "definition": "Autua e distribui os processos de 2ª instância de matéria criminal, faz juízo de admissibilidade dos recursos constitucionais criminais e envia aos Tribunais Superiores."
+    },
+    {
+        "term": "3ª Vice-Presidência",
+        "definition": "Faz juízo de admissibilidade dos recursos constitucionais cíveis e envia aos Tribunais Superiores."
+    },
+    {
+        "term": "A quo",
+        "definition": "A instância de origem onde foi dada a decisão da qual se pretende recorrer. / Data inicial da contagem de um prazo."
+    },
+    {
+        "term": "Absolvição",
+        "definition": "Reconhecimento da inocência de uma pessoa."
+    },
+    {
+        "term": "Ação Judicial",
+        "definition": "É o meio processual para a defesa de um direito, levando o caso ao Poder Judiciário."
+    },
+    {
+        "term": "Ação Penal Privada",
+        "definition": "Ação judicial para apurar a prática de um crime e buscar a consequente aplicação da lei penal ao caso, que somente pode ser proposta pela própria vítima ou seu representante legal (exemplos: calúnia; difamação e injúria)."
+    },
+    {
+        "term": "Ação Penal Pública",
+        "definition": "Ação judicial para apurar a prática de um crime e buscar a consequente aplicação da lei penal ao caso, que somente pode ser proposta pelo Ministério Público ou outro órgão público (exemplos: homicídio; estupro; roubo; furto e estelionato)."
+    },
+    {
+        "term": "Ação Rescisória",
+        "definition": "Ação judicial que busca anular uma sentença ou acórdão já transitado em julgado."
+    },
+    {
+        "term": "Acórdão",
+        "definition": "Decisão final tomada por um colegiado de, no mínimo, 3 Desembargadores."
+    },
+    {
+        "term": "Ad cautelam",
+        "definition": "Por precaução."
+    },
+    {
+        "term": "Ad hoc",
+        "definition": "Pessoa com designação para uma determinada finalidade."
+    },
+    {
+        "term": "Ad quem",
+        "definition": "A instância superior a quem se recorre de uma sentença/decisão para que seja reavaliada. / Data final da contagem de um prazo."
+    },
+    {
+        "term": "Aditar",
+        "definition": "Acrescentar."
+    },
+    {
+        "term": "Advogado",
+        "definition": "Profissional formado em Direito que defende os interesses de quem o contratou."
+    },
+    {
+        "term": "Advogado Dativo",
+        "definition": "Advogado que se cadastra voluntariamente junto ao TJRJ para ser eventualmente nomeado para a defesa gratuita da parte que não poderia pagar pelos serviços de um advogado. O Advogado Dativo atua nas situações em que a Defensoria Pública não pode estar presente."
+    },
+    {
+        "term": "Agravado",
+        "definition": "Parte contrária àquela que apresenta o agravo."
+    },
+    {
+        "term": "Agravante",
+        "definition": "Parte que apresenta o agravo."
+    },
+    {
+        "term": "Agravo de Instrumento",
+        "definition": "Recurso apresentado ao Desembargador contra uma decisão interlocutória dada por um Juiz em um processo que está em andamento na 1ª instância."
+    },
+    {
+        "term": "Agravo em Recurso Especial",
+        "definition": "Recurso direcionado ao STJ contra decisão da 2ª ou 3ª Vice-Presidências que inadmitiu o Recurso Especial."
+    },
+    {
+        "term": "Agravo em Recurso Extraordinário",
+        "definition": "Recurso direcionado ao STF contra decisão da 2ª ou 3ª Vice-Presidências que inadmitiu o Recurso Extraordinário."
+    },
+    {
+        "term": "Agravo Interno",
+        "definition": "Recurso que busca a revisão da decisão monocrática dada pelo Desembargador Relator, submetendo-a ao colegiado. Utilizado nos casos previstos no Código de Processo Civil."
+    },
+    {
+        "term": "Agravo Regimental",
+        "definition": "Recurso que busca a revisão da decisão monocrática dada pelo Desembargador Relator, submetendo-a ao colegiado. Utilizado nos casos previstos no Regimento Interno do Tribunal."
+    },
+    {
+        "term": "Aguardando",
+        "definition": "Processo que se encontra na unidade judicial aguardando alguma providência, após o que, voltará a ser movimentado pelo funcionário."
+    },
+    {
+        "term": "Aguardando Decurso de Prazo - XX Dias",
+        "definition": "Processo que se encontra na unidade judicial aguardando o fim do prazo de XX dias, após o que, voltará a ser movimentado pelo funcionário."
+    },
+    {
+        "term": "Aguardando Julgamento no OE / STJ / STF",
+        "definition": "Processo que se encontra suspenso na unidade judicial, aguardando o julgamento de uma ação/recurso pelo Órgão Especial, STJ ou STF, após o que, ele voltará a ser movimentado pelo funcionário."
+    },
+    {
+        "term": "Aguardando Trânsito em Julgado",
+        "definition": "Processo já julgado que se encontra na unidade judicial, aguardando o fim do prazo que as partes dispõem para recorrer da decisão final."
+    },
+    {
+        "term": "Alvará de Soltura",
+        "definition": "Documento que determina a liberdade de uma pessoa que se encontra presa."
+    },
+    {
+        "term": "Amicus Curiae",
+        "definition": "‘Amigo da corte’. Pessoa ou organização que não é parte em um caso, mas que o tribunal permite oferecer informações, conhecimentos ou perspectivas relevantes sobre as questões em discussão."
+    },
+    {
+        "term": "Anulação",
+        "definition": "Ato de invalidar uma decisão anterior, tornando-a sem efeito."
+    },
+    {
+        "term": "Apelação",
+        "definition": "Recurso apresentado para tentar mudar o resultado do julgamento."
+    },
+    {
+        "term": "Apelado",
+        "definition": "Parte contrária àquela que apresenta a apelação."
+    },
+    {
+        "term": "Apelante",
+        "definition": "Parte que apresenta a apelação."
+    },
+    {
+        "term": "Apensamento",
+        "definition": "Ato de vincular um processo a outro, para que passem a andar juntos."
+    },
+    {
+        "term": "Apud",
+        "definition": "Citado por. Conforme determinada fonte."
+    },
+    {
+        "term": "Ata de Audiência",
+        "definition": "Documento que registra as manifestações das partes, as decisões do juiz e quem estava presente."
+    },
+    {
+        "term": "Ata de Julgamento",
+        "definition": "Documento que registra os resultados dos julgamentos de todos os processos de uma mesma sessão de julgamento."
+    },
+    {
+        "term": "Ato Ordinatório",
+        "definition": "Publicação sem conteúdo decisório que serve para movimentar o processo."
+    },
+    {
+        "term": "Ato Processual",
+        "definition": "Ação/manifestação praticada pelas partes, Magistrado ou auxiliares da justiça, que objetiva produzir algum efeito no processo judicial, tais como petições, recursos, intimações e decisões."
+    },
+    {
+        "term": "Audiência de Conciliação",
+        "definition": "Realizada entre o autor e o réu, intermediada pelo conciliador (pessoa auxiliar da justiça), em que se busca chegar a um acordo entre as partes. Nela, o conciliador esclarece sobre as vantagens da conciliação e os riscos e consequências do litígio. Conseguida a conciliação, os termos do acordo são levados ao Magistrado para homologação."
+    },
+    {
+        "term": "Audiência de Custódia",
+        "definition": "Realizada com a pessoa que foi presa em flagrante, sendo apresentada a um Juiz que irá verificar a ocorrência de maus-tratos, bem como a legalidade da prisão e sua eventual conversão em prisão preventiva ou concessão de liberdade provisória. Durante a audiência também estarão presentes o Ministério Público e a Defensoria Pública ou advogado do preso."
+    },
+    {
+        "term": "Audiência de Instrução e Julgamento – AIJ",
+        "definition": "Realizada entre o autor, o réu e o Juiz, caso não tenha sido feito um acordo. Nela, o Juiz irá ouvir as partes, recolher as provas e decidir sobre o conflito."
+    },
+    {
+        "term": "Autor",
+        "definition": "Parte responsável por levar uma questão à apreciação do judiciário. Quem inicia o processo."
+    },
+    {
+        "term": "Autos do Processo",
+        "definition": "Conjunto dos documentos (eletrônicos ou em papel) produzidos pelas partes e pelo judiciário durante a ação judicial."
+    },
+    {
+        "term": "Autuação",
+        "definition": "Conjunto de atos necessários para formar um novo processo, a partir da petição inicial. Tais como: cadastrar a nova ação no sistema de movimentação processual do Tribunal, registrando o tipo de ação, a classificação dos assuntos envolvidos no conflito, a identificação do nome das partes e advogados, e o número de processo recebido."
+    },
+    {
+        "term": "Aviso de Recebimento – AR",
+        "definition": "Documento elaborado pelos Correios que permite confirmar a entrega de um objeto ou carta ao destinatário."
+    },
+    {
+        "term": "Baixa à Origem",
+        "definition": "Ocorre quando o processo é enviado à unidade onde ele foi iniciado."
+    },
+    {
+        "term": "Baixa em Diligência",
+        "definition": "Ocorre quando o Magistrado determina o envio do processo à unidade onde ele foi iniciado para que se cumpra determinada providência."
+    },
+    {
+        "term": "Bis in Idem",
+        "definition": "Duas vezes o mesmo. Refere-se à repetição de uma decisão sobre um mesmo fato."
+    },
+    {
+        "term": "Bloqueio On-Line",
+        "definition": "Ordem judicial feita aos bancos, determinando a retenção de certo valor nas contas bancárias da parte devedora."
+    },
+    {
+        "term": "Boa-fé",
+        "definition": "Que age honestamente, com conduta leal."
+    },
+    {
+        "term": "Câmara",
+        "definition": "Possui atribuição para julgar, entre outros, os recursos relativos a decisões judiciais das Varas da 1ª instância. Composta por 5 Desembargadores. Podendo ser: Câmara de Direito Privado, Câmara de Direito Público, Câmara de Direito Empresarial ou Câmara Criminal."
+    },
+    {
+        "term": "Carta Precatória",
+        "definition": "Documento com solicitações ou informações para a comunicação externa entre unidades judiciárias de diferentes comarcas dentro do Estado do Rio de Janeiro ou de diferentes estados brasileiros."
+    },
+    {
+        "term": "Cartório Judicial",
+        "definition": "Unidade judicial de 1ª instância responsável por praticar os atos de processamento, dando cumprimento às determinações do Juiz."
+    },
+    {
+        "term": "Caso Fortuito",
+        "definition": "Ocorrência de fato natural extraordinário, que não se pode prever nem evitar (Ex.: enchente e deslizamento de terra)."
+    },
+    {
+        "term": "Causa mortis",
+        "definition": "O que provocou a morte da pessoa."
+    },
+    {
+        "term": "Central de Mandados",
+        "definition": "Unidade que gerencia o cumprimento dos mandados judiciais do TJRJ, recebendo-os das unidades judiciais e distribuindo entre os Oficiais de Justiça."
+    },
+    {
+        "term": "Certidão",
+        "definition": "Documento que atesta determinado fato ou situação processual."
+    },
+    {
+        "term": "Certidão de Decurso de Prazo",
+        "definition": "Documento feito pela unidade judicial que certifica o término do prazo para a prática de determinado ato processual."
+    },
+    {
+        "term": "Certidão de Objeto e Pé",
+        "definition": "Documento feito pela unidade judicial, onde são descritos, de forma resumida, o teor da ação judicial e o momento processual em que ela se encontra. Informam-se, ainda, o nome do requerente da certidão, o número do processo e o nome das partes e advogados."
+    },
+    {
+        "term": "Citação",
+        "definition": "Ato processual de comunicar à parte, que está sendo processada judicialmente, para apresentar a sua defesa."
+    },
+    {
+        "term": "Citado",
+        "definition": "Aquele que recebe uma citação."
+    },
+    {
+        "term": "Codex",
+        "definition": "Código."
+    },
+    {
+        "term": "Código Civil – CC",
+        "definition": "É a Lei nº 10.406/2002. O conjunto das normas que regulamentam os direitos e deveres das pessoas no âmbito do direito privado, ou seja, são as regras de procedimento nas relações de natureza civil."
+    },
+    {
+        "term": "Código de Defesa do Consumidor – CDC",
+        "definition": "É a Lei nº 8.078/1990. O conjunto das normas que regulamentam a proteção e defesa do consumidor."
+    },
+    {
+        "term": "Código de Processo Civil – CPC",
+        "definition": "É a Lei nº 13.105/2015. O conjunto das normas que regulamentam os prazos, os recursos e a condução nos Tribunais dos processos judiciais de natureza civil."
+    },
+    {
+        "term": "Código de Processo Penal – CPP",
+        "definition": "É o Decreto-Lei nº 3.689/1941. O conjunto das normas que regulamentam os prazos, os recursos e a condução nos Tribunais dos processos judiciais de natureza penal, bem como os direitos dos presos."
+    },
+    {
+        "term": "Código Penal – CP",
+        "definition": "É o Decreto-Lei nº 2.848/1940. O conjunto das normas que determinam e regulamentam os atos considerados crimes, bem como definem as sanções correspondentes."
+    },
+    {
+        "term": "Colegiado",
+        "definition": "Grupo de Magistrados que compõem determinado Órgão Julgador."
+    },
+    {
+        "term": "Com Resolução do Mérito",
+        "definition": "Ocorre quando o julgamento da ação decide sobre seu mérito, ou seja, os pedidos feitos no processo são analisados pela decisão final."
+    },
+    {
+        "term": "Comarca",
+        "definition": "Subdivisão territorial da organização do Poder Judiciário. Delimita a região em que o Juiz de 1ª instância exerce suas atribuições, podendo abranger um ou mais municípios."
+    },
+    {
+        "term": "Competência",
+        "definition": "Abrangência do limite do magistrado para julgar um processo, podendo ser determinado por diversos critérios, tais como: o assunto; as partes envolvidas; e o lugar onde ocorreu o fato."
+    },
+    {
+        "term": "Conclusão",
+        "definition": "Ato de enviar o processo ao Magistrado para que ele possa avaliar a questão presente nos autos e tome a decisão cabível."
+    },
+    {
+        "term": "Conflito de Competência",
+        "definition": "Ocorre quando dois ou mais Magistrados se declaram com, ou sem, atribuição para julgar o processo."
+    },
+    {
+        "term": "Conselho da Magistratura",
+        "definition": "Reúne 10 Desembargadores e possui atribuições específicas, definidas pelo Regimento Interno, tais como exercer superior inspeção e manter a disciplina na Magistratura, determinando correições e sindicâncias."
+    },
+    {
+        "term": "Conselho Recursal",
+        "definition": "Reúne as Turmas Recursais e possui atribuições para julgar os recursos relativos a decisões judiciais dos Juizados Especiais Cível, Fazendário e Criminal."
+    },
+    {
+        "term": "Constituição Federal",
+        "definition": "Lei fundamental que traz as regras de organização do Estado Brasileiro e das instituições da República, bem como os direitos e deveres dos cidadãos."
+    },
+    {
+        "term": "Contestação",
+        "definition": "Documento pelo qual a parte ré se defende dos fatos apresentados pelo autor na petição inicial."
+    },
+    {
+        "term": "Contrafé",
+        "definition": "Cópia da petição inicial que é entregue à parte citada."
+    },
+    {
+        "term": "Contramandado",
+        "definition": "Documento que torna sem efeito o mandado de prisão anterior, determinando o retorno daquele mandado à unidade judicial."
+    },
+    {
+        "term": "Contrarrazões",
+        "definition": "Documento pelo qual a parte recorrida se defende das razões alegadas no recurso."
+    },
+    {
+        "term": "Culposo",
+        "definition": "Que foi praticado sem intenção."
+    },
+    {
+        "term": "Curatela",
+        "definition": "Instituto jurídico para proteção do maior de 18 anos que, por algum motivo de incapacidade jurídica (enfermidade mental ou psicológica que o impeça de manifestar sua vontade), é interditado (declarado incapaz pelo Magistrado através de decisão) e um curador é nomeado para proteger seus direitos e interesses, e administrar seus bens."
+    },
+    {
+        "term": "Custas Processuais",
+        "definition": "Valor devido pelas partes para iniciar o processo, bem como para realizar atos processuais durante o andamento da ação."
+    },
+    {
+        "term": "Dano Material",
+        "definition": "Prejuízo financeiro causado a uma pessoa, gerando uma diminuição do seu patrimônio econômico (dinheiro ou bens materiais)."
+    },
+    {
+        "term": "Dano Moral",
+        "definition": "Prejuízo emocional causado a uma pessoa, violando sua honra e dignidade, e gerando abalo psicológico."
+    },
+    {
+        "term": "Data vênia",
+        "definition": "Com a devida permissão."
+    },
+    {
+        "term": "Decadência",
+        "definition": "Perda do direito ocorrida quando seu titular deixa de agir dentro do prazo legal para seu exercício."
+    },
+    {
+        "term": "Decisão Interlocutória",
+        "definition": "Manifestação do Magistrado sobre uma questão incidental durante o andamento do processo, sem, contudo, encerrá-lo com o julgamento."
+    },
+    {
+        "term": "Decisão Judicial",
+        "definition": "Manifestação do Magistrado, feita no processo, que contém uma determinação."
+    },
+    {
+        "term": "Decisão Monocrática",
+        "definition": "Decisão de um único Magistrado."
+    },
+    {
+        "term": "Declínio de Competência",
+        "definition": "Ocorre quando o Magistrado envia o processo para distribuição a outro Juízo, que ele entende ser o competente para julgar o processo."
+    },
+    {
+        "term": "Defensoria Pública",
+        "definition": "Órgão público que presta atendimento jurídico de forma gratuita a pessoas que não teriam condições de pagar pelos serviços de um advogado."
+    },
+    {
+        "term": "Deferir",
+        "definition": "Atender a um pedido. Decisão favorável a quem pediu."
+    },
+    {
+        "term": "Denegar",
+        "definition": "Negar um pedido. Decisão desfavorável a quem pediu."
+    },
+    {
+        "term": "Denúncia",
+        "definition": "Petição inicial da ação penal pública, feita pelo Ministério Público para pedir a condenação de uma pessoa por fato criminoso."
+    },
+    {
+        "term": "Denúncia do Contrato",
+        "definition": "Manifestação de vontade da parte de não permanecer no contrato, visando a seu encerramento."
+    },
+    {
+        "term": "Depositário Infiel",
+        "definition": "Pessoa responsável pela guarda de um bem que não lhe pertence, e que não o devolve ao seu proprietário no momento devido."
+    },
+    {
+        "term": "Deprecado",
+        "definition": "Unidade que recebe uma Carta Precatória de outra unidade, contendo solicitações ou informações."
+    },
+    {
+        "term": "Deprecante",
+        "definition": "Unidade que envia uma Carta Precatória a outra unidade, encaminhando solicitações ou informações."
+    },
+    {
+        "term": "Desbloqueio",
+        "definition": "Ordem judicial para o banco liberar ao titular da conta o valor anteriormente retido."
+    },
+    {
+        "term": "Desembargador",
+        "definition": "Magistrado que atua na 2ª instância do Tribunal de Justiça."
+    },
+    {
+        "term": "Desembargador Relator",
+        "definition": "Desembargador para quem foi distribuído um processo, sendo ele o responsável por seu andamento até o julgamento. Cabe a ele fazer o relatório do processo e dar seu voto, que será levado aos demais Desembargadores do colegiado na sessão de julgamento."
+    },
+    {
+        "term": "Desembargador Revisor",
+        "definition": "Desembargador que revisa o processo, depois de o Relator apresentar seu relatório."
+    },
+    {
+        "term": "Desembargador Vogal",
+        "definition": "Desembargador que vota no julgamento de um processo, após o Desembargador Relator e, quando houver, o Desembargador revisor."
+    },
+    {
+        "term": "Deserção",
+        "definition": "Refere-se ao não pagamento das custas processuais do recurso, impossibilitando seu processamento."
+    },
+    {
+        "term": "Despacho",
+        "definition": "Manifestação do Magistrado com as medidas necessárias para o andamento do processo."
+    },
+    {
+        "term": "Detenção",
+        "definition": "Espécie de pena privativa de liberdade, que deve ser cumprida em regime semiaberto ou aberto, menos rigorosa que a pena de reclusão."
+    },
+    {
+        "term": "Devolução do Prazo",
+        "definition": "Ocorre quando o prazo para a prática de um ato processual já havia se encerrado, porém, ele é reiniciado por determinação do Magistrado."
+    },
+    {
+        "term": "Diário da Justiça Eletrônico (DJE / DJERJ)",
+        "definition": "Diário Oficial (DO) Meio oficial em que o TJRJ divulga seus atos processuais e administrativos, bem como comunicações em geral. É publicado eletronicamente, sendo acessado através de link disponível no site do Tribunal de Justiça."
+    },
+    {
+        "term": "Digitação",
+        "definition": "Processo que se encontra na fila da unidade judicial para a confecção de um documento, como mandado ou alvará, por exemplo."
+    },
+    {
+        "term": "Digitalização",
+        "definition": "Ato de digitalizar e transformar o processo físico em processo eletrônico."
+    },
+    {
+        "term": "Dilação de Prazo",
+        "definition": "Prorrogação do prazo previamente fixado para a prática de um ato processual."
+    },
+    {
+        "term": "Diligência",
+        "definition": "Providência determinada pelo Magistrado."
+    },
+    {
+        "term": "Direito Líquido e Certo",
+        "definition": "Direito da pessoa que não depende de interpretação ou análise e que pode ser comprovado de forma clara e objetiva, exclusivamente por documentos, sem a necessidade de provas adicionais."
+    },
+    {
+        "term": "Distribuição",
+        "definition": "Ato de definir o Magistrado que será o responsável por analisar e julgar o processo."
+    },
+    {
+        "term": "Doloso / Dolo",
+        "definition": "Que foi praticado intencionalmente."
+    },
+    {
+        "term": "Duplo Grau de Jurisdição",
+        "definition": "Garantia da possibilidade de revisão de qualquer decisão proferida, por uma instância superior."
+    },
+    {
+        "term": "Edital de Citação",
+        "definition": "Documento que divulga e dá publicidade ao réu de que ele está sendo convocado a se apresentar no local indicado para fazer sua defesa no processo. Ocorre nos casos em que não se consegue localizar o réu."
+    },
+    {
+        "term": "Edital de Leilão",
+        "definition": "Documento que divulga e dá publicidade ao bem que será leiloado, trazendo as informações necessárias, como sua descrição e valor, e a data, o local e as regras e condições do leilão."
+    },
+    {
+        "term": "Edital-Pauta",
+        "definition": "Documento que traz a relação dos processos que serão levados à sessão de julgamento em determinado dia."
+    },
+    {
+        "term": "Efeito Suspensivo",
+        "definition": "Medida que suspende o cumprimento de uma decisão judicial até que ocorra o julgamento final de um recurso."
+    },
+    {
+        "term": "Em Mesa",
+        "definition": "Indica que o Desembargador irá levar o processo para julgamento em sessão de julgamento, não havendo, contudo, necessidade de incluí-lo no Edital-Pauta. Assim, não haverá necessidade de prévia intimação das partes sobre a data e horário em que ele será julgado."
+    },
+    {
+        "term": "Em Pauta",
+        "definition": "Indica que o processo será levado a julgamento, com a respectiva publicação da data e horário da sessão de julgamento através do Edital-Pauta."
+    },
+    {
+        "term": "Embargos de Declaração",
+        "definition": "Recurso dirigido ao próprio Magistrado que realizou o julgamento, para que ele esclareça alguma obscuridade, omissão ou contradição na decisão."
+    },
+    {
+        "term": "Ementa",
+        "definition": "Relatório bastante resumido do processo."
+    },
+    {
+        "term": "Escritura Pública",
+        "definition": "Documento feito no Cartório de Notas para registrar a vontade das partes envolvidas em um negócio."
+    },
+    {
+        "term": "Espólio",
+        "definition": "Relação dos bens, rendimentos, obrigações e direitos que compõem o patrimônio do falecido."
+    },
+    {
+        "term": "Ex lege",
+        "definition": "De acordo com a lei."
+    },
+    {
+        "term": "Ex nunc",
+        "definition": "Com efeitos que operam a partir do momento presente; a contar da data de uma decisão em diante."
+    },
+    {
+        "term": "Ex positis",
+        "definition": "Do que ficou estabelecido."
+    },
+    {
+        "term": "Ex tunc",
+        "definition": "Com efeitos que operam desde um momento passado, anterior à data de uma decisão, em diante. A contar desde o início da ocorrência de um fato passado."
+    },
+    {
+        "term": "Ex vi legis",
+        "definition": "Por força de lei."
+    },
+    {
+        "term": "Executado Judicial",
+        "definition": "Aquele que está sendo cobrado a cumprir uma condenação judicial."
+    },
+    {
+        "term": "Expedição de Documento",
+        "definition": "Ato de elaborar um mandado, ofício, alvará ou outro documento e o encaminhar à assinatura do Magistrado."
+    },
+    {
+        "term": "Extinção do Processo com Resolução do Mérito",
+        "definition": "Encerramento do processo com uma decisão final do Magistrado, que resolve a questão trazida pelas partes."
+    },
+    {
+        "term": "Extinção do Processo sem Resolução do Mérito",
+        "definition": "Encerramento do processo sem que haja uma decisão final do Magistrado sobre a questão trazida pelas partes."
+    },
+    {
+        "term": "Flagrante Delito",
+        "definition": "Ocorre quando uma pessoa é surpreendida cometendo um crime ou tendo acabado de cometê-lo."
+    },
+    {
+        "term": "Força Maior",
+        "definition": "Situação decorrente da ação humana, que não se pode prever nem evitar (Ex.: guerra e greve)."
+    },
+    {
+        "term": "Fulcro",
+        "definition": "Baseado em / Aquilo que constitui a essência de uma coisa."
+    },
+    {
+        "term": "Fumus Boni Iuris",
+        "definition": "'Fumaça do bom direito'. Significa que a alegação feita é plausível."
+    },
+    {
+        "term": "Fundamentação",
+        "definition": "Parte da decisão em que o Magistrado expõe as razões pelas quais formou seu convencimento sobre o caso."
+    },
+    {
+        "term": "Gabinete",
+        "definition": "Local onde o Magistrado despacha e desenvolve suas atividades."
+    },
+    {
+        "term": "Gratuidade de Justiça (JG)",
+        "definition": "Isenção das custas processuais concedida à parte que não tem condições financeiras de pagá-las."
+    },
+    {
+        "term": "GRERJ",
+        "definition": "Sigla para Guia de Recolhimento de Receita Judiciária, e serve para o pagamento das custas processuais devidas ao TJRJ por uma das partes."
+    },
+    {
+        "term": "Grupo de Câmara Criminal",
+        "definition": "Reúne 10 Desembargadores das Câmaras Criminais e possui atribuições específicas, definidas pelo Regimento Interno."
+    },
+    {
+        "term": "Habeas Corpus",
+        "definition": "Ação judicial que serve para proteger a liberdade de locomoção (ir e vir) de uma pessoa, quando esse direito é ameaçado ou violado por ato ilegal ou abuso de poder de uma autoridade pública."
+    },
+    {
+        "term": "Habeas Data",
+        "definition": "Ação judicial que serve para garantir o acesso de uma pessoa a dados e informações sobre ela mesma que constam nos registros públicos."
+    },
+    {
+        "term": "Habilitação",
+        "definition": "Quando o herdeiro/sucessor pede à Justiça para assumir o lugar do falecido no processo."
+    },
+    {
+        "term": "Hipossuficiência",
+        "definition": "Que não possui recursos para se sustentar financeiramente."
+    },
+    {
+        "term": "Homologação de Acordo",
+        "definition": "Ocorre quando o acordo feito entre as partes do processo é confirmado pelo Magistrado através de uma decisão, podendo ser executado judicialmente em caso de não cumprimento."
+    },
+    {
+        "term": "Honorários Advocatícios",
+        "definition": "Remuneração devida ao advogado, pelos serviços por ele prestados, a ser pago pelo cliente que o contratou, independentemente do resultado do processo."
+    },
+    {
+        "term": "Honorários de Sucumbência",
+        "definition": "Valor fixado por lei a ser pago, pela parte perdedora do processo, ao advogado da parte vencedora."
+    },
+    {
+        "term": "Impedimento do Magistrado",
+        "definition": "Ocorre quando o Magistrado não pode ser o responsável pelo processo que lhe foi distribuído (art. 144 do CPC)."
+    },
+    {
+        "term": "Improcedência do Pedido",
+        "definition": "Ocorre quando o Magistrado não aceita o pedido feito pela parte."
+    },
+    {
+        "term": "Impugnar",
+        "definition": "Refutar. Opor-se a algo."
+    },
+    {
+        "term": "In albis",
+        "definition": "Em branco. Ausência de manifestação da parte interessada."
+    },
+    {
+        "term": "In fine",
+        "definition": "Finalmente. 'No final'."
+    },
+    {
+        "term": "In totum",
+        "definition": "Em sua totalidade. 'No todo'."
+    },
+    {
+        "term": "Inadimplência",
+        "definition": "Não cumprimento de um contrato. Não pagamento da dívida no dia de seu vencimento."
+    },
+    {
+        "term": "Inelegibilidade",
+        "definition": "Condição de uma pessoa que não pode se candidatar a um cargo político ou ser eleita para um mandato eletivo."
+    },
+    {
+        "term": "Inimputável",
+        "definition": "Aquele que, por doença mental ou desenvolvimento mental incompleto ou retardado (art. 26 do Código Penal), é inteiramente incapaz de entender o caráter ilícito de sua ação ou da omissão, e, por isso, é isento de pena."
+    },
+    {
+        "term": "Inquérito Policial",
+        "definition": "Procedimento administrativo realizado pela polícia judiciária (Polícias Civil e Federal) em que são reunidas as informações do caso e diligências realizadas, a fim de apurar a existência de infração penal e sua autoria, embasando possível ação penal posterior."
+    },
+    {
+        "term": "Instância Superior",
+        "definition": "Responsável por apreciar os recursos relativos as decisões judiciais do Juízo em que o processo atualmente se encontra."
+    },
+    {
+        "term": "Intempestivo",
+        "definition": "Ato processual feito após o prazo estabelecido pela lei ou pelo Magistrado."
+    },
+    {
+        "term": "Interpretação Pacífica",
+        "definition": "Entendimento adotado pela maioria do Tribunal a respeito de determinado caso/situação."
+    },
+    {
+        "term": "Intimação",
+        "definition": "Comunicação destinada aos advogados e partes, dando-lhes ciência de alguma decisão ou da prática de um ato no processo. Pode ser realizada através do envio de um documento físico ou eletrônico à parte que se deseja intimar."
+    },
+    {
+        "term": "Intimação Eletrônica",
+        "definition": "Envio de comunicação processual por mensagem eletrônica."
+    },
+    {
+        "term": "Inventário",
+        "definition": "Ação para levantar os bens deixados pelo falecido e distribuir entre os herdeiros."
+    },
+    {
+        "term": "Ipsis litteris",
+        "definition": "Literalmente. 'Com as mesmas letras'."
+    },
+    {
+        "term": "Ipso facto",
+        "definition": "Pelo mesmo fato."
+    },
+    {
+        "term": "Juiz",
+        "definition": "Aquele que tem a atribuição, dada pelo Estado, de aplicar a lei aos casos que lhe são trazidos e julgá-los, resolvendo o conflito entre as partes na 1ª instância."
+    },
+    {
+        "term": "Juiz Leigo",
+        "definition": "Auxiliar da justiça formado em Direito, escolhido pelo TJRJ através de processo seletivo para atuação por determinado período, que tem a atribuição de elaborar projetos de sentença, a serem submetidos ao Juiz, que poderá concordar ou dar outra sentença."
+    },
+    {
+        "term": "Juizado Especial (Cível, Fazendário e Criminal)",
+        "definition": "Órgão com atribuição para julgar os processos de menor complexidade e valor, pelo rito célere da Lei nº 9.099/95 (Juizado Especial Cível e Criminal) ou da Lei nº 12.153/09 (Juizado Especial Fazendário)."
+    },
+    {
+        "term": "Juízo 100% Digital",
+        "definition": "Modo de tramitação totalmente digital do processo, em que o processamento e o julgamento são realizados de forma remota (dispensando a presença física das partes), em ambiente virtual."
+    },
+    {
+        "term": "Juízo de Admissibilidade",
+        "definition": "Exame feito pela 2ª ou 3ª Vice-Presidências para analisar se os Recursos Extraordinário, Especial ou Ordinário Constitucional reúnem os requisitos necessários para serem remetidos ao STF ou STJ."
+    },
+    {
+        "term": "Julgamento",
+        "definition": "Ato que decide sobre o processo e, nele, o Magistrado relata e fundamenta as razões que o levaram àquele entendimento."
+    },
+    {
+        "term": "Julgamento Monocrático",
+        "definition": "Ocorre quando apenas um Desembargador julga o processo, sem levar o caso à sessão de julgamento, para análise pelos demais Desembargadores da Câmara."
+    },
+    {
+        "term": "Juntada",
+        "definition": "Ato de juntar um documento novo no processo."
+    },
+    {
+        "term": "Jurisprudência",
+        "definition": "Conjunto de decisões dadas pelo Tribunal que possuem uma mesma interpretação sobre o mesmo caso."
+    },
+    {
+        "term": "Lato sensu",
+        "definition": "Em sentido geral."
+    },
+    {
+        "term": "Leiloeiro",
+        "definition": "A pessoa que realiza o leilão."
+    },
+    {
+        "term": "Licitação",
+        "definition": "Processo administrativo pelo qual a Administração Pública contrata obras, serviços, compras e alienações."
+    },
+    {
+        "term": "Litígio",
+        "definition": "Ação. Disputa judicial entre autor e réu, estabelecida após a apresentação da contestação."
+    },
+    {
+        "term": "Má-fé",
+        "definition": "Com a intenção de causar prejuízo. Que altera a verdade dos fatos."
+    },
+    {
+        "term": "Magistrado",
+        "definition": "Sinônimo de Juiz ou Desembargador."
+    },
+    {
+        "term": "Malote Digital",
+        "definition": "Sistema eletrônico utilizado para o envio de correspondências oficiais entre os Órgãos do Poder Judiciário de todo o Brasil."
+    },
+    {
+        "term": "Mandado",
+        "definition": "Documento que traz escrita a ordem dada pelo Magistrado, a ser cumprida."
+    },
+    {
+        "term": "Mandado de Busca e Apreensão",
+        "definition": "Documento com ordem para que se apreenda uma coisa/pessoa, em poder de outra pessoa, em determinado local."
+    },
+    {
+        "term": "Mandado de Citação",
+        "definition": "Documento informando ao réu sobre a existência de uma ação contra ele e convocando-o a apresentar sua defesa no processo."
+    },
+    {
+        "term": "Mandado de Pagamento",
+        "definition": "Documento determinando ao banco (conveniado ao Tribunal) entregar a quantia depositada em conta judicial a determinada pessoa."
+    },
+    {
+        "term": "Mandado de Prisão",
+        "definition": "Documento determinando a prisão de uma pessoa."
+    },
+    {
+        "term": "Mandado de Segurança",
+        "definition": "Ação judicial que serve para proteger direito líquido e certo (ou seja, direito incontestável que pode ser provado exclusivamente por documentos) que tenha sido ameaçado ou violado por ato ilegal ou abuso de poder de uma autoridade pública."
+    },
+    {
+        "term": "Mandato",
+        "definition": "Sinônimo de procuração."
+    },
+    {
+        "term": "Medida Socioeducativa",
+        "definition": "Sanção judicial aplicada ao adolescente que comete ato infracional."
+    },
+    {
+        "term": "Memorando",
+        "definition": "Documento com solicitações ou informações para a comunicação interna entre unidades/órgãos do TJRJ."
+    },
+    {
+        "term": "Memoriais",
+        "definition": "Documento feito pelo advogado a fim destacar ou esclarecer, ao Magistrado, questões complexas presentes no processo, antes de seu julgamento."
+    },
+    {
+        "term": "Mens legis",
+        "definition": "O espírito da lei. A intenção da lei."
+    },
+    {
+        "term": "Ministério Público",
+        "definition": "Órgão público responsável por defender na Justiça os interesses da sociedade e do regime democrático."
+    },
+    {
+        "term": "Minuta",
+        "definition": "Esboço de um documento a ser submetido à avaliação."
+    },
+    {
+        "term": "Modus operandi",
+        "definition": "O modo de operar/ modo de agir."
+    },
+    {
+        "term": "Mora",
+        "definition": "Atraso no cumprimento de uma obrigação."
+    },
+    {
+        "term": "Mora ex re",
+        "definition": "Mora devida pelo não cumprimento de uma obrigação no dia do seu vencimento."
+    },
+    {
+        "term": "Negativação",
+        "definition": "Inscrição do nome da pessoa nos cadastros de proteção ao crédito (como o Serasa e SPC)."
+    },
+    {
+        "term": "Oficial de Justiça",
+        "definition": "Servidor do Tribunal que tem a atribuição de dar cumprimento à determinação contida nos mandados e alvarás, realizando citações, intimações, prisões, solturas, penhoras, busca e apreensão e demais diligências."
+    },
+    {
+        "term": "Ofício",
+        "definition": "Documento para comunicação externa de unidades/órgãos do TJRJ com destinatários que não integram a estrutura do TJRJ."
+    },
+    {
+        "term": "Ônus",
+        "definition": "Obrigação a ser cumprida."
+    },
+    {
+        "term": "Ônus da prova",
+        "definition": "Obrigação de comprovar as alegações feitas no processo, através de documentos ou testemunhas."
+    },
+    {
+        "term": "Ordem dos Advogados do Brasil – OAB",
+        "definition": "Órgão responsável por registrar e fiscalizar os advogados."
+    },
+    {
+        "term": "Órgão Especial do TJRJ",
+        "definition": "Reúne 25 Desembargadores e possui atribuições específicas, definidas pelo Regimento Interno, tais como julgar, originariamente, o Vice-Governador, os Deputados Estaduais e os Secretários de Estado nos crimes; julgar os Habeas Corpus quando a autoridade coatora for o Governador do Estado; e julgar os dissídios coletivos e estado de greve."
+    },
+    {
+        "term": "Órgão Julgador",
+        "definition": "Órgão colegiado (ou seja, formado por um grupo de Magistrados) que compõe o Tribunal, como, por exemplo, as Câmaras, as Seções Cíveis, os Grupos de Câmara Criminal, o Órgão Especial, o Tribunal Pleno e o Conselho da Magistratura."
+    },
+    {
+        "term": "Ouvidoria",
+        "definition": "Recebe sugestões, perguntas ou reclamações sobre as atividades do TJRJ."
+    },
+    {
+        "term": "Para Processar",
+        "definition": "Processo que se encontra na fila da unidade judicial para análise pelo funcionário que dará seu devido andamento, seja juntando uma petição, expedindo uma certidão, enviando os autos ao Magistrado, ou, ainda, dando cumprimento ao determinado na decisão."
+    },
+    {
+        "term": "Para Publicar",
+        "definition": "Processo que se encontra na fila da unidade judicial para que o despacho/decisão, dado pelo Magistrado, seja enviado ao Diário da Justiça Eletrônico e ali publicado."
+    },
+    {
+        "term": "Parecer do Ministério Público",
+        "definition": "Manifestação do Ministério Público no processo com sua opinião sobre o caso e os pedidos."
+    },
+    {
+        "term": "Parecer Técnico",
+        "definition": "Documento que traz as avaliações e conclusões do perito sobre o caso por ele analisado."
+    },
+    {
+        "term": "Pari passu",
+        "definition": "Simultaneamente. 'Com o mesmo passo'."
+    },
+    {
+        "term": "Parte",
+        "definition": "Pessoa (física ou jurídica) que participa do processo, como, por exemplo, o autor e o réu."
+    },
+    {
+        "term": "Partilha",
+        "definition": "Distribuição dos bens do falecido entre os herdeiros."
+    },
+    {
+        "term": "Patrono",
+        "definition": "Advogado ou Defensor Público que defende os interesses da parte no processo."
+    },
+    {
+        "term": "Pauta de Julgamento",
+        "definition": "Lista que contém a relação dos processos que serão julgados na sessão de julgamento indicada, em dia e hora determinados."
+    },
+    {
+        "term": "Peculato",
+        "definition": "Crime em que o funcionário público se apropria de dinheiro ou qualquer bem móvel de que tem a posse em razão do cargo."
+    },
+    {
+        "term": "Pedido de Liminar",
+        "definition": "Pedido feito pela parte para que o Magistrado lhe conceda um direito antecipadamente, ainda que de forma provisória e antes mesmo do julgamento final do processo, por alegada urgência e risco de perda do direito em caso de demora em seu reconhecimento definitivo."
+    },
+    {
+        "term": "Pedindo Dia",
+        "definition": "Indica a determinação para que o processo seja incluído em uma sessão de julgamento."
+    },
+    {
+        "term": "Pedindo Dia - Sessão Virtual",
+        "definition": "Indica a determinação para que o processo seja incluído em uma sessão de julgamento virtual."
+    },
+    {
+        "term": "Pena",
+        "definition": "Sinônimo de condenação que o réu terá que cumprir."
+    },
+    {
+        "term": "Penhora",
+        "definition": "Instrumento judicial para reter os bens do devedor (restringindo os direitos de propriedade, como a venda, por exemplo), a fim de garantir que eles possam ser usados posteriormente para o pagamento da dívida."
+    },
+    {
+        "term": "Perícia",
+        "definition": "Avaliação realizada pelo perito."
+    },
+    {
+        "term": "Perito",
+        "definition": "Profissional com especialização e experiência em determinada área da ciência, que auxilia o Magistrado dando parecer técnico sobre uma questão discutida no processo."
+    },
+    {
+        "term": "Petição",
+        "definition": "Pedido feito por escrito."
+    },
+    {
+        "term": "Petição Inicial",
+        "definition": "Relato inicial do autor, em que ele narra os acontecimentos que pretende levar à apreciação do judiciário, e também faz os pedidos que deseja obter. Documento com o qual se inicia um processo."
+    },
+    {
+        "term": "Pleitear",
+        "definition": "Pedir. Requerer."
+    },
+    {
+        "term": "Poder Judiciário",
+        "definition": "É um dos poderes do Estado que possui a atribuição de julgar conflitos e aplicar as leis."
+    },
+    {
+        "term": "Poderes da Procuração",
+        "definition": "São as autorizações, e seus limites que constam na procuração para poder agir em nome de outra pessoa."
+    },
+    {
+        "term": "Precatório Judicial",
+        "definition": "Determinação judicial feita à Fazenda Pública para que ela pague determinada quantia a seu credor, em razão de condenação final do ente público em um processo."
+    },
+    {
+        "term": "Precedente",
+        "definition": "Decisões judiciais que podem servir como exemplos para outros julgamentos em casos semelhantes."
+    },
+    {
+        "term": "Preclusão",
+        "definition": "Perda do direito de praticar um ato processual, seja pela parte não ter agido dentro do prazo legal para seu exercício, seja por já o ter praticado."
+    },
+    {
+        "term": "Preparo",
+        "definition": "Refere-se ao pagamento das custas processuais para o processamento do recurso."
+    },
+    {
+        "term": "Prescrição",
+        "definition": "Perda do direito de interpor uma ação, quando seu titular deixa de agir dentro do prazo legal para seu exercício."
+    },
+    {
+        "term": "Prevenção",
+        "definition": "Ocorre quando, no momento da distribuição por sorteio, dentre os vários Magistrados aptos a serem os responsáveis pelo julgamento do processo, um deles, por algum motivo, tem a preferência legal para ser o seu responsável/relator."
+    },
+    {
+        "term": "Prima facie",
+        "definition": "À primeira vista."
+    },
+    {
+        "term": "Prisão em Flagrante",
+        "definition": "Ocorre quando a pessoa é presa em flagrante delito (cometendo um crime ou logo após cometê-lo)."
+    },
+    {
+        "term": "Pro forma",
+        "definition": "Por mera formalidade."
+    },
+    {
+        "term": "Procedência do Pedido",
+        "definition": "Ocorre quando o Magistrado aceita o pedido feito pela parte."
+    },
+    {
+        "term": "Processo Eletrônico",
+        "definition": "Processo que é formado por documentos ('peças') eletrônicos. Ou seja, suas peças não são impressas em papel e o processo somente pode ser consultado através de um dispositivo eletrônico, como computador, tablet ou celular."
+    },
+    {
+        "term": "Processos Baixados em Diligência",
+        "definition": "Processo enviado à Vara de origem para alguma providência e que voltará para a 2ª Instancia."
+    },
+    {
+        "term": "Procuração",
+        "definition": "Documento em que a pessoa concede poderes a um advogado para representá-la perante a Justiça, autorizando-o a praticar atos jurídicos em seu nome."
+    },
+    {
+        "term": "Procuradoria Geral do Estado",
+        "definition": "Órgão responsável por defender na Justiça os interesses do Estado do Rio de Janeiro."
+    },
+    {
+        "term": "Procuradoria Geral do Município",
+        "definition": "Órgão responsável por defender na Justiça os interesses do Município."
+    },
+    {
+        "term": "Progressão de Regime",
+        "definition": "Direito do preso de passar a cumprir sua pena com regras menos rigorosas, caso preencha os requisitos previstos em lei."
+    },
+    {
+        "term": "Projeto de Sentença",
+        "definition": "Parecer jurídico elaborado pelo Juiz Leigo, com sua avaliação sobre o julgamento do caso, que é imediatamente submetido ao Juiz, que poderá concordar ou dar nova sentença."
+    },
+    {
+        "term": "Promotor",
+        "definition": "Aquele que trabalha no Ministério Público e que tem como atribuição a defesa dos interesses da sociedade."
+    },
+    {
+        "term": "Protesto",
+        "definition": "Ato de registrar, no Cartório de Protesto de Títulos, a dívida não paga no prazo definido."
+    },
+    {
+        "term": "Protocolo",
+        "definition": "Recibo composto por uma sequência de números que comprova que o documento foi entregue ao Tribunal."
+    },
+    {
+        "term": "Publicação",
+        "definition": "Ocorre quando uma comunicação judicial é tornada pública através de sua divulgação no Diário da Justiça Eletrônico."
+    },
+    {
+        "term": "Publicados",
+        "definition": "Processo cuja decisão já foi publicada no Diário da Justiça Eletrônico, e que se encontra na fila da unidade judicial para certificação desse fato e devido andamento."
+    },
+    {
+        "term": "Queixa-Crime",
+        "definition": "Petição inicial da ação penal privada, em que a exposição do fato criminoso e a respectiva acusação são feitas pela própria vítima (ou seu representante)."
+    },
+    {
+        "term": "Querelado",
+        "definition": "Parte acusada contra a qual foi oferecida a Queixa-Crime."
+    },
+    {
+        "term": "Querelante",
+        "definition": "Parte acusadora que leva a Queixa-Crime à Justiça."
+    },
+    {
+        "term": "Questão Constitucional",
+        "definition": "Assunto que envolve a interpretação de normas da Constituição Federal do Brasil."
+    },
+    {
+        "term": "Quórum",
+        "definition": "Número mínimo necessário de Desembargadores presentes em plenário para o prosseguimento da sessão de julgamento e realização do julgamento."
+    },
+    {
+        "term": "Recesso do Judiciário",
+        "definition": "Suspensão do expediente forense entre 20 de dezembro e 6 de janeiro, período em que também ocorre a suspensão legal dos prazos processuais (que se encerra em 20 de janeiro, o próximo expediente)."
+    },
+    {
+        "term": "Recorridos",
+        "definition": "Partes que têm interposto contra sua sentença."
+    },
+    {
+        "term": "Recurso",
+        "definition": "Solicitação feita à segunda instância para que reconsidere uma decisão."
+    },
+    {
+        "term": "Recurso Adesivo",
+        "definition": "Recurso apresentado pela parte vencedora contra decisão desfavorável, que não foi analisado pelo juiz anterior."
+    },
+    {
+        "term": "Recurso de Apelação",
+        "definition": "Recurso que visa obter uma nova decisão para o caso."
+    },
+    {
+        "term": "Recurso Extraordinário",
+        "definition": "Recurso que visa obter uma nova decisão para o caso."
+    },
+    {
+        "term": "Recurso Ordinário",
+        "definition": "Recurso contra sentença ou decisão judicial."
+    },
+    {
+        "term": "Recurso Prodigalidade",
+        "definition": "Ocorre quando se pretende reformar a decisão que foi emitida e analisada pelo juiz da causa."
+    },
+    {
+        "term": "Registro da Propriedade",
+        "definition": "Processo judicial para a formalização da propriedade de um imóvel. "
+    },
+    {
+        "term": "Registro de Preços",
+        "definition": "Registro prévio de preços para aquisição de um produto ou serviço."
+    },
+    {
+        "term": "Remição",
+        "definition": "Extinção da punibilidade do condenado em cumprimento de pena."
+    },
+    {
+        "term": "Réplica",
+        "definition": "Manifestação do autor do recurso ou do Recorrente acerca das contrariedades apresentadas em reconvenção."
+    },
+    {
+        "term": "Reparação",
+        "definition": "Obrigatoriedade de restituição, de acordo com a decisão judicial, de dano causado por um dos envolvidos."
+    },
+    {
+        "term": "Repartição Pública",
+        "definition": "Local ou órgão que tem competência para a execução de funções administrativas em nome do Estado."
+    },
+    {
+        "term": "Representação",
+        "definition": "Atos para substituir a solicitação da parte ou por outrem, para assegurar os direitos de outrem."
+    },
+    {
+        "term": "Requisitos",
+        "definition": "Reunião de documentos e atos para o cumprimento das normas estabelecidas pela Fazenda Pública."
+    },
+    {
+        "term": "Res judicata",
+        "definition": "A expressão latina significa 'coisa julgada', ou seja, a coisa que foi julgada. É a doutrina que determina o fim da relação processual. O caráter incontestável é irrevogável, para decretar. recebido indeferido deferimento encaminhado deferimento. unto dos autuados indeferida indeferimento é agravao feito subalternos."
+    },
+    {
+        "term": "Recurso Ordinário Constitucional",
+        "definition": "Recurso dirigido ao STF ou STJ. Contudo, antes de seu envio ao STF ou STJ é realizado o 'juízo de admissibilidade' pela 2ª ou 3ª Vice-Presidências para analisar se o recurso reúne os requisitos necessários para ser remetido àquelas instâncias superiores."
+    },
+    {
+        "term": "Representante Legal",
+        "definition": "Aquele que tem autoridade, dada pela lei, para agir em nome de outra pessoa."
+    },
+    {
+        "term": "Requerimento",
+        "definition": "Pedido feito por escrito."
+    },
+    {
+        "term": "Retirada de Pauta",
+        "definition": "Ocorre quando o Magistrado determina a retirada de um processo da sessão de julgamento em que ele já estava para ser julgado."
+    },
+    {
+        "term": "Réu",
+        "definition": "Parte contra quem o autor demanda em um processo judicial."
+    },
+    {
+        "term": "Revelia",
+        "definition": "Ocorre quando um réu não atende à citação para se defender e deixa de apresentar contestação no processo."
+    },
+    {
+        "term": "Sanção",
+        "definition": "Medida punitiva ou educativa aplicada por um Magistrado."
+    },
+    {
+        "term": "Seções Cíveis",
+        "definition": "Dividem-se em Seção de Direito Privado e Seção de Direito Público."
+    },
+    {
+        "term": "Seção de Direito Privado",
+        "definition": "Reúne 15 Desembargadores das Câmaras de Direito Privado e possui atribuições específicas, definidas pelo Regimento Interno."
+    },
+    {
+        "term": "Seção de Direito Público",
+        "definition": "Reúne 7 Desembargadores das Câmaras de Direito Público e possui atribuições específicas, definidas pelo Regimento Interno."
+    },
+    {
+        "term": "Secretaria de Câmara",
+        "definition": "Unidade judicial de 2ª instância responsável por praticar os atos de processamento, dando cumprimento às determinações dos Desembargadores dos Órgãos Julgadores e zelando pelo regular andamento de uma ação judicial (acompanhando os prazos para manifestação das partes, realizando publicações e intimações, digitando e expedindo documentos e abrindo conclusão ao Magistrado, por exemplo)."
+    },
+    {
+        "term": "Sem Resolução de Mérito",
+        "definition": "Ocorre quando a ação termina sem decidir sobre seu mérito, ou seja, os pedidos feitos no processo não são analisados na decisão final."
+    },
+    {
+        "term": "Sentença",
+        "definition": "Manifestação por escrito do Magistrado em que ele decide sobre o caso na 1ª instância."
+    },
+    {
+        "term": "Sessão de Julgamento",
+        "definition": "Reunião de Desembargadores de determinado Órgão Julgador para julgar os processos inclusos na pauta de julgamento."
+    },
+    {
+        "term": "Sobrestamento",
+        "definition": "Suspensão. Paralisação temporária do andamento do processo."
+    },
+    {
+        "term": "STF",
+        "definition": "Sigla para Supremo Tribunal Federal, que é o órgão máximo do Poder Judiciário brasileiro e a quem cabe a defesa e a interpretação da Constituição."
+    },
+    {
+        "term": "STJ",
+        "definition": "Sigla para Superior Tribunal de Justiça (conhecido como 'Tribunal da Cidadania'), que é a instância máxima da justiça brasileira na defesa e na interpretação das leis federais (em questões não relacionadas diretamente à Constituição)."
+    },
+    {
+        "term": "Substabelecimento Com Reserva de Poderes",
+        "definition": "Documento pelo qual o advogado, que já possui procuração, transfere parte de seus poderes para o novo advogado, passando ambos a atuar conjuntamente na representação."
+    },
+    {
+        "term": "Substabelecimento Sem Reserva de Poderes",
+        "definition": "Documento pelo qual o advogado, que já possui procuração, transfere total e definitivamente seus poderes para o novo advogado (que irá assumir a causa)."
+    },
+    {
+        "term": "Súmula",
+        "definition": "Registro das interpretações pacíficas ou majoritárias do Tribunal (jurisprudência)."
+    },
+    {
+        "term": "Suspeição do Magistrado",
+        "definition": "Ocorre quando o Magistrado, por alguma razão subjetiva que pudesse vir a comprometer sua imparcialidade, não pode ser o responsável pelo processo que lhe foi distribuído (casos elencados no art. 145 do CPC)."
+    },
+    {
+        "term": "Suspensão",
+        "definition": "Ocorre quando o Magistrado determina que o processo deixe de ser movimentado por algum período (ou seja, deixam de ser praticados atos processuais, exceto os de urgência). Assim, o processo permanece na unidade judicial aguardando a ocorrência do fato que porá fim à suspensão."
+    },
+    {
+        "term": "Tabelar",
+        "definition": "Substitui o titular em sua função, quando este não pode ou não deve atuar no caso."
+    },
+    {
+        "term": "Tempestivo",
+        "definition": "Ato processual feito dentro do prazo estabelecido pela lei ou pelo Magistrado."
+    },
+    {
+        "term": "Testemunha",
+        "definition": "Pessoa que não é parte do processo (ou seja, nem autor, nem réu), mas que tem conhecimento sobre o assunto que está sendo discutido. Por este motivo, é chamada para responder as perguntas do Juiz e das partes, devendo dizer apenas a verdade, sob pena de cometer crime de mentir em Juízo."
+    },
+    {
+        "term": "TJRJ",
+        "definition": "Sigla para Tribunal de Justiça do Estado do Rio de Janeiro."
+    },
+    {
+        "term": "Tramitação",
+        "definition": "Andamento dos atos processuais ocorridos no decorrer de um processo."
+    },
+    {
+        "term": "Recurso Ordinário Constitucional",
+        "definition": "Recurso dirigido ao STF ou STJ. Contudo, antes de seu envio ao STF ou STJ é realizado o 'juízo de admissibilidade' pela 2ª ou 3ª Vice-Presidências para analisar se o recurso reúne os requisitos necessários para ser remetido àquelas instâncias superiores."
+    },
+    {
+        "term": "Trânsito em Julgado",
+        "definition": "Ocorre quando uma decisão (exemplo: sentença, julgamento monocrático ou acórdão) torna-se definitivo por não haver mais possibilidade de ser reavaliada."
+    },
+    {
+        "term": "Tribunais Superiores",
+        "definition": "Referem-se aos órgãos máximos do Poder Judiciário, tais como o STF e o STJ."
+    },
+    {
+        "term": "Tribunal Pleno",
+        "definition": "Órgão julgador composto por todos os Desembargadores do Tribunal de Justiça do Estado do Rio de Janeiro."
+    },
+    {
+        "term": "Turma Recursal",
+        "definition": "Subdivisão do Conselho Recursal. Órgão composto por 5 juízes de direito, com mandatos de dois anos, com atribuição para julgar os recursos oriundos dos Juizados Especiais Cível, Fazendário e Criminal."
+    },
+    {
+        "term": "Ultra petita",
+        "definition": "Algo que ultrapassa o pedido feito pela parte."
+    },
+    {
+        "term": "Unidade Judicial",
+        "definition": "Sinônimo de Cartório Judicial ou de Secretaria de Câmara."
+    },
+    {
+        "term": "Vara",
+        "definition": "Repartição judiciária de 1ª instância em que o Juiz exerce suas atribuições. Compreende o Cartório, onde são realizadas as atividades de processamento, e o gabinete, onde o Juiz se ocupa da análise dos processos e das decisões."
+    },
+    {
+        "term": "Vara de Origem",
+        "definition": "Refere-se ao Juízo de 1ª instância que primeiro julgou o processo."
+    },
+    {
+        "term": "Virtualização",
+        "definition": "Ato de integrar os documentos digitalizados de um processo, então físico, aos sistemas de movimentação processual eletrônica do Tribunal."
+    },
+    {
+        "term": "Vista dos Autos",
+        "definition": "Recebimento do processo, pelo Magistrado, para análise."
+    },
+    {
+        "term": "Voto",
+        "definition": "Exposição dos fatos, razões e fundamentos que levaram o Desembargador a consolidar seu entendimento sobre como o processo deve ser julgado."
+    },
+    {
+        "term": "Voto Vencido",
+        "definition": "Voto dado pelo Desembargador que não acompanha o entendimento da maioria do colegiado (grupo) no julgamento de um processo."
+    },
+    {
+        "term": "Writ",
+        "definition": "Sinônimo de Habeas Corpus e Mandado de Segurança."
+    }
+]
+    
+
+    
