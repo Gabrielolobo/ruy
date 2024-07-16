@@ -1,34 +1,34 @@
 from fastapi import FastAPI, HTTPException
-from typing import List
 import json
 import os
+from trie import Trie
 
 # Initialize FastAPI app
 app = FastAPI()
 
-# Absolute path to data.json
+# Load data from JSON file into Trie
 script_dir = os.path.dirname(__file__)  # Absolute directory path of the script
 rel_path = 'data.json'
 abs_file_path = os.path.join(script_dir, rel_path)
 
-# Load data from JSON file
+trie = Trie()
+
 with open(abs_file_path, 'r', encoding='utf-8') as file:
     data = json.load(file)
-
-# Temporary search algorithm
-
-
-def search(query: str) -> List[str]:
-    results = [item['term']
-               for item in data if query.lower() in item['term'].lower()]
-    return results
+    for item in data:
+        trie.insert(item['term'].lower())
 
 # Endpoint to perform search
 
 
 @app.get("/search")
 async def perform_search(query: str):
-    results = search(query)
+    if len(query) < 4:
+        raise HTTPException(
+            status_code=400)
+
+    results = trie.search_prefix(query.lower())
     if not results:
         raise HTTPException(status_code=404, detail="No results found")
+
     return {"results": results}
