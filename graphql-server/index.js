@@ -4,8 +4,7 @@ const express = require('express');
 
 const app = express();
 
-const BACKEND = 'http://127.0.0.1:8000/search';
-
+const BACKEND = 'http://backend:8000/search';
 //GraphQL Schema
 const typeDefs = gql`
   type Query {
