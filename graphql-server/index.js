@@ -1,10 +1,10 @@
 const { ApolloServer, gql } = require('apollo-server-express');
+const axios = require('axios');
 const express = require('express');
-const resolvers = require('./resolvers');
 
 const app = express();
 
-const BACKEND = 'http://backend:8000/search';
+const BACKEND = 'http://127.0.0.1:8000/search';
 
 //GraphQL Schema
 const typeDefs = gql`
@@ -12,6 +12,22 @@ const typeDefs = gql`
     search(query: String!): [String!]!
   }
 `;
+//Fetches data from the backend
+const resolvers = {
+  Query: {
+    search: async (_, { query }) => {
+      try {
+        const response = await axios.get(BACKEND, {
+          params: { query },
+        });
+        return response.data.results;
+      } catch (error) {
+        console.error('Error fetching data:', error);
+        throw new Error('Failed to fetch data');
+      }
+    },
+  },
+};
 
 const server = new ApolloServer({ typeDefs, resolvers });
 
