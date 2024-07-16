@@ -1,0 +1,10 @@
+*/node_modules
+**/*.pyc
+**/__pycache__
+.git
+.pytest_cache
+build
+data
+dist
+docker
+public
