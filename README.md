@@ -15,6 +15,17 @@ An autocomplete search bar that returns legal terms.
 2. Open your terminal.
 3. Navigate to the root directory of the project.
 4. Run the following command to build and start the project:
+5. Inside frontend directory, run:
+   
+   ```sh
+   npm install
+   
+7. Inside graphql-server directory, run:
+   
+   ```sh
+   npm install
+   
+9.now, back to root directory, do:
 
    ```sh
    docker-compose up --build
