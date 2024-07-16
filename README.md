@@ -20,13 +20,14 @@ An autocomplete search bar that returns legal terms.
    ```sh
    npm install
    
-7. Inside graphql-server directory, run:
+6. Inside graphql-server directory, run:
    
    ```sh
    npm install
    
-9.now, back to root directory, do:
+7. now, back to root directory, do:
 
+    ```sh
    docker-compose up --build
 
 #### This Project will be running on localhost:5173 like this:
