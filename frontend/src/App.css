@@ -1,42 +1,52 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+.App {
+  background-color: #5a8ab6;
+  height: 100vh;
   text-align: center;
+  padding: 270px;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+h1 {
+  color: #e6f3fd;
+  font-size: 65px;
+  font-family: Papyrus, fantasy;
+  margin-bottom: 5px;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h4 {
+  color: #e6f3fd;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 25px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.search-container {
+  position: relative;
+  width: 700px;
+  margin: auto;
+  display: flex;
+
 }
 
-.card {
-  padding: 2em;
+.suggestion-container {
+  border-radius: 10px;
+  max-height: 200px;
+  overflow-y: auto;
+  position: absolute;
+  top: 60px; /* Adjust based on the height of your input box */
+  width: 100%;
+  background-color: white;
+  z-index: 1;
 }
 
-.read-the-docs {
-  color: #888;
+.suggestion-item {
+  padding: 10px;
+  text-align: left;
+
+}
+
+.suggestion-item:last-child {
+  border-bottom: none;
+}
+
+.suggestion-item:hover {
+  background-color: #e6f3fd;
 }
