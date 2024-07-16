@@ -21,5 +21,5 @@ An autocomplete search bar that returns legal terms.
 
 #### This Project will be running on localhost:5173 like this:
 
-![Landpage](landpage.png)
+![Landpage](images/landpage.png)
 ![Search results](images/searchresult.png)
