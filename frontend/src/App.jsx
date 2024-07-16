@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <h1>RUY</h1>
+      <h2>___________________</h2>
       <h4>Dicionário Jurídico</h4>
       <div className="search-container">
         <SearchBar setResults={setResults} />
