@@ -35,4 +35,4 @@ An autocomplete search bar that returns legal terms.
 ![Landpage](images/landpage.png)
 ![Search results](images/searchresult.png)
 
-## Up to date Version in wip.
+### Up to date Version in wip.
